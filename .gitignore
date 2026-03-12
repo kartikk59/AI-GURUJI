@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.DS_Store
+
+# Node.js
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Project Generated Data & Models
+# We generally don't want to commit large AI models or generated video/audio
+backend/data/outputs/
+backend/data/vector_store/
+backend/data/weights/
+backend/data/avatar/
+backend/data/lectures/
+backend/test_audio_output/
+
+# Keep the directory structure but ignore content (optional, but good practice)
+!backend/data/outputs/.gitkeep
+!backend/data/vector_store/.gitkeep
+
+# IDE / Editor
+.vscode/
+.idea/
