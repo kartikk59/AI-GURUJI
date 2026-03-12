@@ -124,7 +124,7 @@ This project is protected under the **MIT License**. View the [LICENSE](LICENSE)
 
 <br>
 
-Made with ❤️ by the **AI Guruji Team (lead by Kaushal Jindal)**
+Made with ❤️ by the **Kartik Kumar**
 
 </div>
 "# AI-Guruji_final" 
